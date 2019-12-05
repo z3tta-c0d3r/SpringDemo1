@@ -24,8 +24,6 @@ management:
       base-path: /actuator
       exposure:
         include: info, health, metrics, trace
-      security:
-        enabled: false
     jmx:
       exposure:
         include: info, health, metrics, trace
@@ -33,3 +31,5 @@ management:
     health:
       show-details: always
   port: 9000
+  security:
+    enabled: false
