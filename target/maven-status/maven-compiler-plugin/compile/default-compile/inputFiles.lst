@@ -1,4 +1,4 @@
-/Users/vicentegarcialuna/Documents/practicas/demo/src/main/java/com/example/demo/config/ActuatorSecurityConfig.java
+/Users/vicentegarcialuna/Documents/practicas/demo/src/main/java/com/example/demo/config/WebSecurityConfigurer.java
 /Users/vicentegarcialuna/Documents/practicas/demo/src/main/java/com/example/demo/custom/HealthCheck.java
 /Users/vicentegarcialuna/Documents/practicas/demo/src/main/java/com/example/demo/controller/HelloController.java
 /Users/vicentegarcialuna/Documents/practicas/demo/src/main/java/com/example/demo/DemoApplication.java
