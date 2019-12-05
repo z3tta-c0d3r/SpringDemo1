@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: com.example.demo.HelloControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 1.382 s <<< FAILURE! - in com.example.demo.HelloControllerTest
+getHello  Time elapsed: 0.022 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: java.lang.IllegalStateException: 
+The following classes could not be excluded because they are not auto-configuration classes:
+	- com.example.demo.config.ActuatorSecurityConfig
+
+
