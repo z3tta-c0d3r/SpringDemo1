@@ -1,4 +1,0 @@
-com/example/demo/DemoApplication.class
-com/example/demo/config/WebSecurityConfigurer.class
-com/example/demo/controller/HelloController.class
-com/example/demo/custom/HealthCheck.class
